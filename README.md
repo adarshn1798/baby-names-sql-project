@@ -34,13 +34,13 @@ This project explores naming trends in the United States using SQL on a dataset 
 
 2. Import the data using the three insert scripts in order:
 
-  mysql -u root -p baby_names_db < insert_baby_names_1.sql
-  mysql -u root -p baby_names_db < insert_baby_names_2.sql
-  mysql -u root -p baby_names_db < insert_baby_names_3.sql
+  - mysql -u root -p baby_names_db < insert_baby_names_1.sql
+  - mysql -u root -p baby_names_db < insert_baby_names_2.sql
+  - mysql -u root -p baby_names_db < insert_baby_names_3.sql
 
 3. Run Analysis queries using:
 
    result_analysis.sql
 
-## 🗂 Folder Structure
+
 
